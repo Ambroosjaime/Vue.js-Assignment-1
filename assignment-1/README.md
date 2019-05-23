@@ -1,7 +1,7 @@
 # Vue.js-Assignment-1
 
-The Date:
+The Date: 21 mei 2019.
 
-Start time:
+Start time: 12u10.
 
-Endtime:
+Endtime: 12u45.
